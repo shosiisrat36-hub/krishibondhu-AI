@@ -1,0 +1,6 @@
+{
+  "name": "KrishiBondhu AI - Smart Farming & Home Gardening Companion",
+  "description": "Bilingual (Bangla & English) smart farming and home gardening assistant with AI plant doctor, garden manager, crop advisory, reminders, and knowledge hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
